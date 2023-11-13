@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "space",
+      "isAdmin": true
+    }
+  ],
+  "event": [
+    {
+      "image": "https://gdb.voanews.com/ef2c939a-b1f0-4d09-8650-fe419bce3ca1_w1080_h608_s.jpg",
+      "name": "Earthquakes of Turkey",
+      "fullDescrip": "On February 6, 2023, two powerful earthquakes occurred in the south-east of Turkey at an interval of nine hours. The epicenter of the first, with a magnitude of 7.8 (± 0.1), was in the district of Shehitkamil in Gaziantep, Turkey; the epicenter of the second, with a magnitude of 7.5 (± 0.1), was in the district of Ekinözü in Kahramanmaraş, Turkey.  After the earthquakes, several thousand aftershocks were registered, with the magnitude of the strongest one up to 6.7[1]. The disaster killed over 50,500 people in Turkey[3][4] and 8,476 people in Syria[5], with tens of thousands more injured. A state of emergency and seven days of mourning were declared in Turkey. The earthquake is recognized as the most powerful earthquake in Turkey since the 1939 Erzincan earthquake[6]. It is second only to the 1268 Cilicia earthquake[7] and the 1822 Aleppo earthquake in Syria[en][8] in terms of deadliness among those that occurred in the territory occupied by modern-day Turkey. It is one of the strongest earthquakes[en] ever recorded in the Levant. The previous exceedingly large earthquake in the world occurred in 2010 in Haiti[9][10].",
+      "description": "On February 6, 2023, two powerful earthquakes occurred in the south-east of Turkey at an interval of nine hours. The epicenter of the first one, with magnitude 7.8 (± 0.1), was located in the Shehitkamil area in Gaziantep, Turkey, and the epicenter of the second one, with magnitude 7.5 (± 0.1), was in the Ekinözü area in Kahramanmaraş, Turkey.",
+      "date": "February 6, 2023",
+      "place": "Turkey",
+      "category": "Earthquakes",
+      "id": 1
+    },
+    {
+      "image": "https://informburo.kz/storage/photos/94/61156389200db.jpg",
+      "name": "STAMBUL",
+      "fullDescrip": "STAMBUL. 6 SEPTEMBER. INTERFAX - Floods caused by heavy rains in Turkey, Greece and Bulgaria have killed at least five people, Middle Eastern media reported Wednesday. According to different reports, the death toll could be as high as nine in total in different countries. At least two people died in Istanbul. Two more died in a camping area in Turkey's Kırklareli province, Turkish Interior Minister Ali Yerlikaya said Tuesday. A total of about 12 people were in the campground at the time, with four still missing. Six of them were rescued.  Феруза, [08.10.2023 14:19] A total of four serious aviation accidents occurred in the territory during this period, not counting the crash of a cargo plane on January 16, 2017",
+      "description": "6 SEPTEMBER. INTERFAX - Floods caused by heavy rains in Turkey, Greece and Bulgaria have killed at least five people, Middle Eastern media reported Wednesday. According to different reports, the number of casualties could be as high as nine in total in different countries. At least two people died in Istanbul.",
+      "date": "6 SEPTEMBER.",
+      "place": "STAMBUL",
+      "category": "Flood",
+      "id": 2
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/ru/9/99/%D0%90%D0%B2%D0%B8%D0%B0%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F_03052013.jpg",
+      "name": "Aviation accidents occurred",
+      "fullDescrip": "An earthquake occurred on the border of Kyrgyzstan with Uzbekistan on September 11 at 7:54.  According to the Institute of Seismology of the National Academy of Sciences of the Kyrgyz Republic, the strength of the tremors in the epicenter reached 4 MSK. The origin of the earthquake was located in Kadamjai district of Batken region of KR, bordering with Fergana region of Uzbekistan.  No casualties or damage were reported.  The last time an earthquake of the same magnitude on the border of the two countries occurred on August 27. Then the epicenter was the territory of Osh oblast near the city of Kara-Suu.",
+      "description": "An earthquake occurred on the border of Kyrgyzstan with Uzbekistan on September 11 at 7:54.",
+      "date": "September 11 at 7:54.  1999",
+      "place": "Kyrgyzstan ",
+      "category": "Aviation accidents occurred",
+      "id": 3
+    },
+    {
+      "image": "https://fireman.club/wp-content/uploads/2017/01/Biologicheskaya-katastrofa.jpg",
+      "name": " Great Smog ",
+      "fullDescrip": "The Great Smog of December 5, 1952. One of the first environmental disasters caused by human industrial activity was precisely the smog that engulfed London in the winter of 1952. The poisonous fog killed four thousand people in the first eight days, and another eight thousand in the following weeks. The Great Smog of December 5, 1952. One of the first environmental disasters caused by human industrial activity was precisely the smog that engulfed London in the winter of 1952. The poisonous fog killed four thousand people in the first eight days, and another eight thousand in the following weeks.",
+      "description": "The Great Smog of December 5, 1952. One of the first environmental disasters caused by human industrial activity was precisely the smog that engulfed London in the winter of 1952. The poisonous fog killed four thousand people in the first eight days, and another eight thousand in the following weeks.",
+      "date": "December 5, 1952",
+      "place": " London",
+      "category": " Great Smog ",
+      "id": 4
+    },
+    {
+      "image": "https://images.iptv.rt.ru/images/cgmleirir4ssk120e010.jpg",
+      "name": "Volcanic eruptions",
+      "fullDescrip": "In 79 AD, one of the most catastrophic eruptions of the volcano Vesuvius near Naples took place.  This cataclysm killed several thousand inhabitants of the Roman cities of Pompeii, Herculaneum, Oplontis and Stabia and several small villages and villas located at the very foot of the volcano. Vesuvius produced a gigantic hot cloud of rock, ash and smoke up to 33 km high, releasing heat energy many times greater than that released when the atomic bomb exploded over Hiroshima[2][3].  Systematic excavations in Pompeii began in 1860, at which time researchers found 40 bodies of the city's inhabitants buried under the ashes[3]. Historians found that the neighborhood of Vesuvius had been destroyed by pyroclastic flows[3][4]. Pliny the Younger, an ancient Roman politician and writer, witnessed what happened and described it in his notes",
+      "description": "In 1979 AD, one of the most catastrophic eruptions of the volcano Vesuvius near Naples took place.",
+      "date": "1979",
+      "place": "Vesuvius",
+      "category": "Volcanic eruptions",
+      "id": 5
+    },
+    {
+      "image": "https://rg.ru/uploads/images/2023/02/14/49eba705-81e7-4273-9919-e24ced8edfe7_a01.jpeg",
+      "name": "7.6 Earthquake",
+      "fullDescrip": "1. A magnitude 7.6 earthquake struck Neftegorsk on Sakhalin Island in Russia on May 28, 1995²⁵. 2 This earthquake completely destroyed the village of Neftegorsk in just 17 seconds and was the second major natural disaster in the Sakhalin region after the 1952 tsunami that struck Severo-Kurilsk¹⁶. 3. The earthquake killed 2,040 people out of 3,197 residents of Neftegorsk²⁵. 4. An earthquake with a magnitude of 6.5²⁵ occurred in Brazil on May 24, 2010. 5. The epicenter of the earthquake was located 87.7 km west of Tarahuaca, and the hypocenter of the earthquake was located at a depth of 581.2 km²⁵. 6. A magnitude 6.5³ earthquake was recorded off the west coast of Vancouver Island in Canada. 7. A magnitude 6.6³ earthquake was recorded in Kitimat, Canada",
+      "description": "1. A magnitude 7.6 earthquake struck Neftegorsk on Sakhalin Island in Russia on May 28, 1995²⁵. 2 This earthquake completely destroyed the village of Neftegorsk in just 17 seconds and was the second major natural disaster in the Sakhalin region after the 1952 tsunami that struck Severo-Kurilsk¹⁶. 3. The earthquake killed 2,040 people out of 3,197 residents of Neftegorsk²",
+      "date": "May 28, 1995",
+      "place": "Russia",
+      "category": "Earthquake",
+      "id": 6
+    }
+  ]
+}
